@@ -1,1 +1,1 @@
-Created a hardcore game that needs you to escape a labyrinth that has enemies blocking the way. Randomly generated every time it is run. 
+Created a hardcore game that needs you to escape a labyrinth that has obstacles blocking the way and enemies that react to your movements. You are put at a random start position and need to reach a random end position. Randomly generated every time it is run. 
